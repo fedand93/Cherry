@@ -1,0 +1,31 @@
+.card {
+	padding: 0;
+}
+
+.card-title {
+	color: #282d33;
+	font-family: "Arial - Bold MT";
+	line-height: 20px;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.card-description {
+	color: #5c646e;
+	font-family: "Arial MT";
+	font-size: 12px;
+	line-height: 20px;
+}
+
+.card-link {
+	padding-top: 36px;
+	text-decoration: underline;
+	font-weight: bold;
+	font-family: "Arial - Bold MT";
+}
+
+.card-image {
+}
+
+.card-image > img {
+}

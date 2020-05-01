@@ -1,0 +1,23 @@
+.footer {
+	height: 238px;
+	background-color: #262d34;
+}
+.footer-top {
+	height: 12px;
+	background-color: #ff1744;
+}
+.footer-title {
+	color: #a5adb8;
+	font-family: "Arial MT";
+	font-size: 18px;
+	font-weight: 400;
+	padding-top: 28px;
+	border-bottom: 1px solid #40474f;
+	padding-bottom: 11px;
+}
+.footer-l-title {
+	
+}
+.li-foot {
+	list-style-type: none;
+}
